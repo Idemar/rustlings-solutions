@@ -1,0 +1,1 @@
+/home/idemar/rustlings/target/release/rustlings: /home/idemar/rustlings/src/exercise.rs /home/idemar/rustlings/src/main.rs /home/idemar/rustlings/src/project.rs /home/idemar/rustlings/src/run.rs /home/idemar/rustlings/src/ui.rs /home/idemar/rustlings/src/verify.rs

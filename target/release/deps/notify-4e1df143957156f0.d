@@ -1,0 +1,12 @@
+/home/idemar/rustlings/target/release/deps/libnotify-4e1df143957156f0.rmeta: /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/idemar/rustlings/target/release/deps/libnotify-4e1df143957156f0.rlib: /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/idemar/rustlings/target/release/deps/notify-4e1df143957156f0.d: /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs:
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/home/idemar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:
